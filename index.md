@@ -1,6 +1,5 @@
 ## Welcome to Github Pages
-title: Welcome to the yourusername's homepage!
-description: Please browse around and see if you find anything interesting and keep up with it.
+
 You can use the [editor on GitHub](https://github.com/Cbarreto5/yourusername.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
